@@ -1,0 +1,20 @@
+{
+  "UrlsServices": [
+    {
+      "System": "Google",
+      "Description": "Google System",
+      "Type": "Scheduler",
+      "Url": "https://www.google.com.br/",
+      "HttpVerb": "GET",
+      "SeekToOk": "Pesquisadasfasf"
+    },
+    {
+      "System": "Google",
+      "Description": "Google System",
+      "Type": "Scheduler",
+      "Url": "https://www.google.com.br/",
+      "HttpVerb": "GET",
+      "SeekToOk": "Pesquisa"
+    }
+  ]
+}

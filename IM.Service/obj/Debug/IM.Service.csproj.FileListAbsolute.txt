@@ -1,0 +1,11 @@
+D:\Projetos\Integrations.Monitoring\IM.Service\bin\Debug\IM.Service.dll
+D:\Projetos\Integrations.Monitoring\IM.Service\bin\Debug\IM.Service.pdb
+D:\Projetos\Integrations.Monitoring\IM.Service\bin\Debug\IM.Domain.dll
+D:\Projetos\Integrations.Monitoring\IM.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\Integrations.Monitoring\IM.Service\bin\Debug\IM.Domain.pdb
+D:\Projetos\Integrations.Monitoring\IM.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.csprojAssemblyReference.cache
+D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.csproj.CoreCompileInputs.cache
+D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.csproj.CopyComplete
+D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.dll
+D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.pdb
