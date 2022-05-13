@@ -43,7 +43,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.lbl_hello.AutoSize = true;
             this.lbl_hello.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_hello.Location = new System.Drawing.Point(352, 9);
+            this.lbl_hello.Location = new System.Drawing.Point(587, 9);
             this.lbl_hello.Name = "lbl_hello";
             this.lbl_hello.Size = new System.Drawing.Size(114, 29);
             this.lbl_hello.TabIndex = 0;
@@ -69,7 +69,7 @@
             this.panelIntegration.AutoScroll = true;
             this.panelIntegration.Location = new System.Drawing.Point(16, 60);
             this.panelIntegration.Name = "panelIntegration";
-            this.panelIntegration.Size = new System.Drawing.Size(871, 567);
+            this.panelIntegration.Size = new System.Drawing.Size(1414, 649);
             this.panelIntegration.TabIndex = 2;
             // 
             // label1
@@ -86,7 +86,7 @@
             // 
             this.label2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(792, 613);
+            this.label2.Location = new System.Drawing.Point(1335, 695);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(95, 17);
             this.label2.TabIndex = 0;
@@ -108,7 +108,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(899, 639);
+            this.ClientSize = new System.Drawing.Size(1442, 721);
             this.Controls.Add(this.lbl_last_update);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
