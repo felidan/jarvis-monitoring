@@ -9,3 +9,14 @@ D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.csproj.CoreC
 D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.csproj.CopyComplete
 D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.dll
 D:\Projetos\Integrations.Monitoring\IM.Service\obj\Debug\IM.Service.pdb
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\bin\Debug\IM.Service.dll
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\bin\Debug\IM.Service.pdb
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\bin\Debug\IM.Domain.dll
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\bin\Debug\IM.Domain.pdb
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\obj\Debug\IM.Service.csprojAssemblyReference.cache
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\obj\Debug\IM.Service.csproj.CoreCompileInputs.cache
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\obj\Debug\IM.Service.csproj.CopyComplete
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\obj\Debug\IM.Service.dll
+D:\Projetos\jarvis\jarvis-monitoring\IM.Service\obj\Debug\IM.Service.pdb

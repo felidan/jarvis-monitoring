@@ -99,7 +99,7 @@ namespace IM.User.Interface
 
             var labelMsg = new Label()
             {
-                Text = $" {item.Type} - {item.Description}",
+                Text = $" {item.System} - {item.Type} - {item.Description}",
                 Location = new Point(positionX + 20, positionY),
                 Height = 20,
                 Width = (this.panelIntegration.Size.Width / 2) - 40,
