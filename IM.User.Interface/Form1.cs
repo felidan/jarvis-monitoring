@@ -58,13 +58,13 @@ namespace IM.User.Interface
 
         private void PrintAndOrganizeProcess(Process process)
         {
-            this.panelIntegration.Invoke((MethodInvoker)delegate {
-                this.panelIntegration.Controls.Clear();
+            this.panelInte.Invoke((MethodInvoker)delegate {
+                this.panelInte.Controls.Clear();
             });
 
             LabelsProcess = new List<Label>();
-            var positionX = this.panelIntegration.Location.X;
-            var positionY = this.panelIntegration.Location.Y;
+            var positionX = this.panelInte.Location.X;
+            var positionY = this.panelInte.Location.Y;
 
             int index = 0;
             bool swap = false;
@@ -77,8 +77,8 @@ namespace IM.User.Interface
 
                 if (index > (process.UrlsServices.Count / 2) && !swap)
                 {
-                    positionX = this.panelIntegration.Size.Width / 2;
-                    positionY = this.panelIntegration.Location.Y;
+                    positionX = this.panelInte.Size.Width / 2;
+                    positionY = this.panelInte.Location.Y;
                     swap = true;
                 }
                 else
@@ -87,8 +87,8 @@ namespace IM.User.Interface
                 index++;
             });
             
-            this.panelIntegration.Invoke((MethodInvoker)delegate {
-                this.panelIntegration.Controls.AddRange(LabelsProcess.ToArray());
+            this.panelInte.Invoke((MethodInvoker)delegate {
+                this.panelInte.Controls.AddRange(LabelsProcess.ToArray());
             });
         }
 
@@ -102,7 +102,7 @@ namespace IM.User.Interface
                 Text = $" {item.System} - {item.Type} - {item.Description}",
                 Location = new Point(positionX + 20, positionY),
                 Height = 20,
-                Width = (this.panelIntegration.Size.Width / 2) - 40,
+                Width = (this.panelInte.Size.Width / 2) - 40,
                 TextAlign = ContentAlignment.MiddleLeft,
             };
 
@@ -193,6 +193,16 @@ namespace IM.User.Interface
                     this.lbl_next_update.Text = "Next Update: " + NextUpdate.ToString();
                 });
             }
+        }
+
+        private void btn_update_Click(object sender, EventArgs e)
+        {
+            NextUpdate = DateTime.Now;
+        }
+
+        private void panelIntegration_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

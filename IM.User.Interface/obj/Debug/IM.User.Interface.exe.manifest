@@ -66,14 +66,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IM.User.Interface.exe" size="140768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="IM.User.Interface.exe" size="141280">
       <assemblyIdentity name="IM.User.Interface" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tXFQXKfW5VGVgCPK70Is8WlrjNFZeqsIV5L2DscTRzc=</dsig:DigestValue>
+        <dsig:DigestValue>RKeCYrBkQBd5nM9030XXuTKHPT0a0VwGixkbjg0NJ74=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
